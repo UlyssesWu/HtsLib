@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Ulysses</Authors>
+    <Company>VOICeVIO</Company>
+    <Product>VOICeVIO.HtsLib</Product>
+    <Description>VOICeVIO.HtsLib Demo</Description>
+    <Copyright>wdwxy12345@gmail.com</Copyright>
+    <PackageLicenseUrl>https://choosealicense.com/licenses/lgpl-3.0/</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/VOICeVIO</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VOICeVIO.HtsLib\VOICeVIO.HtsLib.csproj" />
+  </ItemGroup>
+
+</Project>

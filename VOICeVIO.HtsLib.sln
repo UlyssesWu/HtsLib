@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOICeVIO.HtsLib", "VOICeVIO.HtsLib\VOICeVIO.HtsLib.csproj", "{F3DAA989-FD92-40B8-86B7-8ADD583AA41B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOICeVIO.HtsLib.Demo", "VOICeVIO.HtsLib.Demo\VOICeVIO.HtsLib.Demo.csproj", "{247A1C89-ABAB-4DC3-8B81-B88507EC1F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3DAA989-FD92-40B8-86B7-8ADD583AA41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DAA989-FD92-40B8-86B7-8ADD583AA41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DAA989-FD92-40B8-86B7-8ADD583AA41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DAA989-FD92-40B8-86B7-8ADD583AA41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247A1C89-ABAB-4DC3-8B81-B88507EC1F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247A1C89-ABAB-4DC3-8B81-B88507EC1F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247A1C89-ABAB-4DC3-8B81-B88507EC1F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247A1C89-ABAB-4DC3-8B81-B88507EC1F17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84A9FE00-2962-4587-ADA4-F5B3BB124E08}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Ulysses</Authors>
+    <Company>VOICeVIO</Company>
+    <Product>VOICeVIO.HtsLib</Product>
+    <Copyright>wdwxy12345@gmail.com</Copyright>
+    <PackageProjectUrl>https://github.com/VOICeVIO</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://choosealicense.com/licenses/lgpl-3.0/</PackageLicenseUrl>
+    <Description>HTSVoice Parser.</Description>
+  </PropertyGroup>
+
+</Project>
